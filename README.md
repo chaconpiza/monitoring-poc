@@ -1,2 +1,2 @@
 # monitoring-poc
-Monitoring with Prometheus, Grafana and Loki
+Monitoring with Prometheus, Grafana and Loki.
